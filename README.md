@@ -42,14 +42,6 @@ Quiz_App is a **Flutter-based mobile application** that delivers an engaging qui
 
 ---
 
-## 🎥 Live Demo
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="250" />
-</p>
-
----
 
 ## 📦 Installation
 
