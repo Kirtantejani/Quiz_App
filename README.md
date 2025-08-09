@@ -1,58 +1,63 @@
-<!-- Banner or Cover Image -->
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🎯+Welcome+to+Quiz_App!;📱+A+Beautiful+Flutter+Quiz+Experience;🚀+Fast%2C+Responsive%2C+and+Fun" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🎯 Quiz App</h1>
+<!-- Badges Row -->
 <p align="center">
-  A modern & responsive <b>Flutter</b> quiz application with smooth UI and engaging experience.  
-</p>
-
-<p align="center">
-  <a href="https://github.com/Kirtantejani/Quiz_App/stargazers"><img src="https://img.shields.io/github/stars/Kirtantejani/Quiz_App?style=for-the-badge" alt="Stars"></a>
-  <a href="https://github.com/Kirtantejani/Quiz_App/network/members"><img src="https://img.shields.io/github/forks/Kirtantejani/Quiz_App?style=for-the-badge" alt="Forks"></a>
-  <a href="https://github.com/Kirtantejani/Quiz_App/issues"><img src="https://img.shields.io/github/issues/Kirtantejani/Quiz_App?style=for-the-badge" alt="Issues"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
+  <img src="https://img.shields.io/github/stars/Kirtantejani/Quiz_App?color=%23ff9800&style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Kirtantejani/Quiz_App?color=%2300bcd4&style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/Kirtantejani/Quiz_App?color=%23e91e63&style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/Kirtantejani/Quiz_App?color=%234caf50&style=for-the-badge" />
 </p>
 
 ---
 
-## ✨ Features
+## ✨ About The App
 
-✅ Dynamic question loading  
-✅ Real-time score updates  
-✅ Clean result summary screen  
-✅ Works on Android & iOS  
-✅ Fully responsive & smooth UI  
+Quiz_App is a **Flutter-based mobile application** that delivers an engaging quiz experience with **real-time scoring**, **dynamic question rendering**, and a **final result summary** — all wrapped in a clean, responsive UI.
 
 ---
 
-## 📸 Screenshots
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x400?text=Screenshot+1" alt="App Screenshot" width="200"/>
-  <img src="https://via.placeholder.com/200x400?text=Screenshot+2" alt="App Screenshot" width="200"/>
-  <img src="https://via.placeholder.com/200x400?text=Screenshot+3" alt="App Screenshot" width="200"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,github" />
 </p>
-
----
-
-## 🛠️ Tech Stack
 
 - **Frontend & Logic:** Flutter, Dart  
-- **State Management:** *(Add if using Provider, Riverpod, Bloc, etc.)*  
-- **Platform Support:** Android, iOS, Web *(optional)*  
+- **IDE:** Android Studio / VS Code  
+- **Platforms:** Android, iOS (and Web if configured)  
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Features
+
+- 🎯 Dynamic question updates without page reloads  
+- 📊 Instant scoring & result calculation  
+- 📱 Mobile-first responsive design  
+- 🎨 Smooth animations for transitions  
+- 🌗 Light/Dark mode support *(if applicable)*  
+
+
+---
+
+## 🎥 Live Demo
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="250" />
+</p>
+
+---
+
+## 📦 Installation
 
 ```bash
 # Clone the repository
 git clone https://github.com/Kirtantejani/Quiz_App.git
 
-# Go to the project folder
+# Navigate to the project directory
 cd Quiz_App
 
 # Install dependencies
